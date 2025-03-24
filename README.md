@@ -17,3 +17,5 @@ Volatility Patterns: Volatility spikes indicate potential trading opportunities.
 
 Ranking System
 The ranking system evaluates price levels, volume, and volatility to provide insights into market conditions, helping traders make informed decisions.
+
+Yusuf Kelashipour
